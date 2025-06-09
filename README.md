@@ -2,7 +2,7 @@
 
 Hi, I'm **Brittany Thompson**, a software developer with a passion for building responsive, user-centered web applications. Since January 2023, I’ve been immersed in modern full-stack development with a focus on the **PERN stack** (PostgreSQL, Express.js, React/TypeScript, and Node.js).
 
-## 💻 Current Projects
+## Current Projects
 
 - **🐾 [Baby Kitty Rescue Website Redesign](https://babykittyrescue.netlify.app)**  
   Rebuilding a nonprofit's website using React/TypeScript, Tailwind CSS, and Vite to improve performance, mobile responsiveness, and maintainability.
@@ -13,7 +13,7 @@ Hi, I'm **Brittany Thompson**, a software developer with a passion for building 
 - **🌍 [JourneyWise](https://journeywise.netlify.app)**  
   Built in collaboration with my Cherry On Tech Spring 2024 team. A responsive, accessibility-first travel planning app designed for inclusivity and usability.
 
-## 🤝 I’m Open to New Opportunities
+## I’m Open to New Opportunities
 
 If you're looking for a junior software developer or apprentice who brings not only technical skills but also a strong background in law and business management, I’d love to connect. 
 
