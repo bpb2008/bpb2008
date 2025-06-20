@@ -4,10 +4,10 @@ Hi, I'm **Brittany Thompson**, a software developer with a passion for building 
 
 ## Current Projects
 
-- **🐾 [Baby Kitty Rescue Website Redesign](https://babykittyrescue.netlify.app)**  
+- **🐾 [Baby Kitty Rescue Website Redesign](https://babykittyrescue.vercel.app/)**  
   Rebuilding a nonprofit's website using React/TypeScript, Tailwind CSS, and Vite to improve performance, mobile responsiveness, and maintainability.
 
-- **✅ [Habitude](https://github.com/chingu-voyages/V55-tier3-team-36)**  
+- **✅ [Habitude](https://habitude-tracker.vercel.app/)**  
   A full-stack habit tracking app in development with a cross-functional team. Built with Next.js, PostgreSQL, and NextAuth.js, featuring user authentication, habit streaks, and community sharing options.
 
 - **🌍 [JourneyWise](https://journeywise.netlify.app)**  
