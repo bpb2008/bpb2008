@@ -1,6 +1,6 @@
 # Welcome! 👋🏾
 
-Hi, I'm **Brittany Thompson**, a software developer with a passion for building responsive, user-centered web applications. Since January 2023, I’ve been immersed in modern full-stack development with a focus on the **PERN stack** (PostgreSQL, Express.js, React/TypeScript, and Node.js). I'm also starting to become a fan of Next.js! 
+Hi, I'm **Brittany Thompson**, a software developer with a passion for building responsive, user-centered web applications. Since January 2023, I’ve been immersed in modern full-stack development with a focus on the **PERN stack** (PostgreSQL, Express.js, React/TypeScript, and Node.js). I'm also starting to become a fan of **Next.js**! 
 
 ## Current Projects
 
