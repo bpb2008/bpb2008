@@ -4,7 +4,7 @@ Hi, I'm **Brittany Thompson**, a software developer with a passion for building 
 
 ## Current Projects
 
-- **🐾 [Baby Kitty Rescue Website Redesign](https://babykittyrescue.vercel.app/)**  
+- **🐾 [Baby Kitty Rescue Website Redesign](https://babykittyrescue.netlify.app/)**  
   Rebuilding a nonprofit's website using React/TypeScript, Tailwind CSS, and Vite to improve performance, mobile responsiveness, and maintainability.
 
 - **✅ [Habitude](https://habitude-tracker.vercel.app/)**  
